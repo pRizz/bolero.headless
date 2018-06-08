@@ -1,0 +1,27 @@
+{
+  "name": "bolero.headless",
+  "version": "1.0.1",
+  "description": "A headless instance of bolero.fun",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bolero.lib": "github:pRizz/bolero.lib#bolero-headless-fixes"
+  },
+  "bin": {
+    "bolero.headless": "bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pRizz/bolero.headless.git"
+  },
+  "keywords": [
+    "iota"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/bolero.headless/issues"
+  },
+  "homepage": "https://github.com/pRizz/bolero.headless#readme"
+}
