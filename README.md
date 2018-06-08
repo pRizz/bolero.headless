@@ -10,7 +10,7 @@ Then start with
 
     bolero.headless
 
-## Installation on a Fresh AWS Instance
+## Example Installation on a Fresh AWS Instance
 
     sudo yum update -y
     sudo yum install git

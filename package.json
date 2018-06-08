@@ -1,7 +1,7 @@
 {
   "name": "bolero.headless",
   "version": "1.0.1",
-  "description": "A headless instance of bolero.fun",
+  "description": "A headless instance of bolero.fun. This makes it very quick and easy to bootstrap new IOTA IRI nodes on new machines.",
   "scripts": {
     "start": "node ./bin/www"
   },
