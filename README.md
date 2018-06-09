@@ -5,7 +5,7 @@ A headless instance of [bolero.fun](https://github.com/SemkoDev/bolero.fun). Thi
 
 ## Port Forwarding (from bolero.fun)
 
-You also need to open ports (port forwarding) in your NAT Router:
+You also need to open ports (port forwarding) in your NAT Router or if running in the cloud:
 
 * **UDP 14600**
 * **TCP 15600**
