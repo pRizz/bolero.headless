@@ -1,4 +1,4 @@
-// From https://github.com/SemkoDev/bolero.fun
+// From https://github.com/SemkoDev/bolero.fun, see license https://github.com/SemkoDev/bolero.fun/blob/develop/LICENSE
 
 const fs = require('fs')
 const path = require('path')
