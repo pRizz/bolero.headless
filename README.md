@@ -1,4 +1,7 @@
 # bolero.headless
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pRizz/bolero.headless.svg)](https://greenkeeper.io/)
+
 A headless instance of [bolero.fun](https://github.com/SemkoDev/bolero.fun). This makes it very quick and easy to bootstrap new [IOTA IRI](https://github.com/iotaledger/iri) nodes on new machines.
 
 # Before Installing
